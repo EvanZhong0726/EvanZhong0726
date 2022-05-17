@@ -2,8 +2,9 @@
 
 ![banner](https://github.com/EvanZhong0726/EvanZhong0726/blob/main/banner.png)
 
-#### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 
+
+#### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 #### 🔭 I’m currently working on building more interesting full-stack projects
 #### 🌱 I’m currently learning android, iOS development, React, and Angular
 #### 🤔 I’m looking for help with getting a full-time job after graduation 
