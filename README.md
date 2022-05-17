@@ -1,6 +1,6 @@
 # Hi there 👋  I am Evan (Zelin) Zhong! (still in progress...)
 
-![banner]()
+![banner](https://github.com/EvanZhong0726/EvanZhong0726/blob/main/Orange%20Modern%20Skincare%20YouTube%20Channel%20Art.png)
 
 #### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 
