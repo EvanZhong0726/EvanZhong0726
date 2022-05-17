@@ -1,6 +1,8 @@
-# Hi there 👋  I am Evan (Zelin) Zhong, a rising senior studying CS at Washington University in St. Louis
+# Hi there 👋  I am Evan (Zelin) Zhong!
 
 ## Here is some information about me!
+
+#### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 
 #### 🔭 I’m currently working on building more interesting full-stack projects
 #### 🌱 I’m currently learning android, iOS development, React, and Angular
