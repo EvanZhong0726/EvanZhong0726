@@ -1,6 +1,5 @@
 # Hi there 👋  I am Evan (Zelin) Zhong!
 
-## Here is some information about me!
 
 #### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 
@@ -12,9 +11,19 @@
 #### 😄 Pronouns: He/they
 #### ⚡ Fun fact: I can eat an orange as a whole
 
+### Here are some of my projects! 👊
+
+
+
+
+
+
+### Language and Tools 🔨
+
 
 
 [![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanzhong0726)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanzhong0726)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
