@@ -1,4 +1,8 @@
-### Hi there 👋  I am Evan (Zelin) Zhong
+### Hi there 👋  I am Evan (Zelin) Zhong, a rising senior studying CS at Washington University in St. Louis
+
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanzhong0726)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
