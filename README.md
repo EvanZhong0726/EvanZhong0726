@@ -10,6 +10,7 @@
 #### 📫 How to reach me: zelinzhongwustl@gmail.com 
 #### 😄 Pronouns: He/they
 #### ⚡ Fun fact: I can eat an orange as a whole
+-------
 
 ### Here are some of my projects! 👊
 
@@ -17,9 +18,11 @@
 
 
 
-
+----------
 ### Language and Tools 🔨
-
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ 
+          
 
 
 [![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanzhong0726)](https://github.com/anuraghazra/github-readme-stats)
