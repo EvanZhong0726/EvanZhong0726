@@ -1,5 +1,7 @@
 # Hi there 👋  I am Evan (Zelin) Zhong! (still in progress...)
 
+![banner]()
+
 #### 🏫 I'm a rising senior at Washington University in St. Louis, majoring in CS 💻 and minoring in Biology 🧠 and Statistics 📈
 
 #### 🔭 I’m currently working on building more interesting full-stack projects
